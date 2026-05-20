@@ -1,0 +1,6 @@
+node_modules/
+.env
+posts-raw.json
+sample-response.json
+analysis.json
+*.jpeg
